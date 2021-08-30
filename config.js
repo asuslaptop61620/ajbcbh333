@@ -13,7 +13,7 @@ var config = {
   errorTitle : "Page not Found (404) - GetVideo",
 
   //Application URL
-  url : "http://example.com",
+  url : "https://yt103x.herokuapp.com/",
 
   //Application Description
   description : "Free online download YouTube videos, audio quickly in 1080p, 720p, MP4, 3GP, and more.",
